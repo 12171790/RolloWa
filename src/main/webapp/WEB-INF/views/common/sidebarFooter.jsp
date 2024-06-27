@@ -559,7 +559,7 @@
  			    					if(result == "SUCCESS") {
  			    						// 현재 열어놓은 채팅방이 있다면 해당 채팅방의 나간 시간 update
  			    						// 채팅방을 닫아놨거나, 아예 열지 않은 경우를 제외하고
-						          if(subRoomNo != -1 && subRoomNo != 0) {
+						          if(subRoomNo != -1 || subRoomNo != 0) {
 						        	  // 열어놓은 채팅방의 나간 시간 update
 						        	  updateOutDate(subRoomNo);
 						          }  		 			    				
