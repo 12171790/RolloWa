@@ -51,13 +51,12 @@
 #### 1-1. 아이디 찾기
 > iziModal을 활용하여 개인 사번 입력 시 자신의 아이디를 화면에 출력합니다. <br>
 
-> ![부서일정_등록수정](https://github.com/leeyechanbal/RolloWa/assets/153481748/2dac44ba-9921-4d93-8db2-b65038e44ff3)
+![_2024_06_27_23_03_03_55-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/34747958-8765-458e-807d-e6c7108d144d)
 #### 1-2 비밀번호 찾기
 > iziModal과 CoolSMS API를 사용하여, 전화번호 인증을 받아야 비밀번호 찾기를 할 수 있습니다. <br>
 > 전화번호 입력 시 유효성 검사를 거치며, 인증 문자 발송 시 타이머가 작동됩니다. 타이머가 0초가 되면 더 이상 입력할 수 없습니다. <br>
 
-> 
-#### 1-3 보안
+> ![_2024_06_27_23_03_49_620-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/5caefdb1-77db-4709-b8e2-cb3eeca9b104)
 
 ### 2. 마이페이지
 > 전화번호, 이메일, 주소 등 개인정보를 변경할 수 있습니다. <br>
@@ -68,11 +67,22 @@
 #### 2-1. 프로필 이미지 변경
 > AJAX를 사용해 프로필 이미지를 클릭하여 이미지 변경 시 변경사항이 바로 반영됩니다. <br>
 
+> ![_2024_06_27_23_06_43_627-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/c4a1062e-ec6e-433b-ac8c-8678f1a9940d)
+
+#### 2-2. 개인정보 변경
+> 문자 인증을 통해 전화번호를 변경할 수 있습니다. <br>
+> 카카오 주소 찾기 api를 통해 본인의 주소를 변경할 수 있습니다. <br>
+> 그 외에 이메일, 계좌번호를 변경할 수 있습니다. <br>
+
+> ![_2024_06_27_23_08_50_243-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/3c5d003c-52de-4833-86ea-3c2c703a1513)
+
 #### 2-3. 비밀번호 변경
 > 입력한 비밀번호에 대해 정규표현식을 통해 유효성 검사를 진행합니다. <br>
 > 제출 시 현재 비밀번호가 일치해야 비밀번호 변경이 됩니다. <br>
 > Spring Security의 암호화 기능을 통해 비밀번호를 암호화하여 DB에 저장합니다. <br>
 > 비밀번호 변경 성공 시 로그인 페이지로 이동합니다. <br>
+
+> ![_2024_06_27_23_13_56_571-ezgif com-video-to-gif-converter (1)](https://github.com/12171790/RolloWa/assets/112368201/69933407-00ac-4007-8007-b36c24ac26fe)
 
 ### 3. 알림
 > SockJS와 STOMP를 활용하여 알림 기능을 구현했습니다. <br>
@@ -83,10 +93,12 @@
 > 공지사항 등록 시 부서원들에게 알림이 갑니다. <br>
 > 알림을 받은 사원이 '알림으로 이동' 버튼을 클릭하면 등록된 공지사항 페이지로 이동할 수 있습니다. <br>
 
+> ![_2024_06_27_23_28_21_689-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/418cf40c-82a9-4f7e-ae63-c9970d248502)
 #### 3-2. 부서 일정 등록 시 알림
 > 일정 등록 시 co-worker로 지정된 사원들에게 알림이 갑니다. <br>
 > 알림을 받은 사원이 '알림으로 이동' 버튼을 클릭하면 일정 페이지로 이동할 수 있습니다. <br>
 
+> ![_2024_06_27_23_28_45_77-ezgif com-video-to-gif-converter](https://github.com/12171790/RolloWa/assets/112368201/a5a97acd-bfd7-4293-b536-ebc3ad48253b)
 ### 4. 채팅
 > SockJS와 STOMP를 활용하여 채팅 기능을 구현했습니다. <br>
 > 그룹채팅, 1대1 채팅이 가능합니다. <br>
