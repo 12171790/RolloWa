@@ -104,4 +104,8 @@
 > 그룹채팅, 1대1 채팅이 가능합니다. <br>
 > 사원을 채팅방에 초대할 수 있습니다. <br>
 > 멘션 기능을 통해 사원에게 알림을 보낼 수 있습니다. <br>
+
+> ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/768a32f8-fab5-4ac7-b8b9-d75e54f9e0ac)
+
+
 ****
