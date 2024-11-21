@@ -1,6 +1,16 @@
 #  [ Project ] RolloWa
 ***
 
+wbs https://docs.google.com/spreadsheets/d/1IIXrj9losVzYQNCMI3Y4T6SXFUSc5Gt-MB3Shclheew/edit?hl=ko#gid=0
+요구사항 정의서 https://docs.google.com/spreadsheets/d/1subJ-V_CE8W7bAuroVtusD7MDsPch4_AkoOtpLyDHmc/edit#gid=0
+테이블 정의서 https://docs.google.com/spreadsheets/d/1l1-vSZ5OWj_dzr1JlYI20OYLYxVpxjr1TSg_CfqFdoc/edit?copiedFromTrash#gid=0
+ERD https://www.erdcloud.com/d/Gf4PFHH52Wi4ExtB8
+화면설계서 https://docs.google.com/presentation/d/13oLWknQu2rLrz0WH5lqd-7KCAsoCbbVnCgQUpesngDo/edit?usp=sharing
+PPT https://docs.google.com/presentation/d/1dv7Br13IOE09YON_pPn6MN_0A58Ti5bdaWc-CMmNPjI/edit?hl=ko#slide=id.p
+카카오오븐 https://ovenapp.io/project/CpEl5YUG7ubn3ZuKoIRVIfg5mozuF2Bb#I92iI
+
+
+
 ## :sparkles: [ Summary ]
 > 놀이공원 운영을 위한 효율적인 그룹웨어 서비스 <br>
 > 출/퇴근, 매출 현황, 비품 관리부터 전자결재, 일정 및 채팅까지 다양한 기능을 통해 업무를 간편하게 관리할 수 있습니다.
