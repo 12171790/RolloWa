@@ -1,12 +1,12 @@
 #  [ Project ] RolloWa
 ***
 
-> wbs https://docs.google.com/spreadsheets/d/1IIXrj9losVzYQNCMI3Y4T6SXFUSc5Gt-MB3Shclheew/edit?hl=ko#gid=0
-> 요구사항 정의서 https://docs.google.com/spreadsheets/d/1subJ-V_CE8W7bAuroVtusD7MDsPch4_AkoOtpLyDHmc/edit#gid=0
-> 테이블 정의서 https://docs.google.com/spreadsheets/d/1l1-vSZ5OWj_dzr1JlYI20OYLYxVpxjr1TSg_CfqFdoc/edit?copiedFromTrash#gid=0
-> ERD https://www.erdcloud.com/d/Gf4PFHH52Wi4ExtB8
-> 화면설계서 https://docs.google.com/presentation/d/13oLWknQu2rLrz0WH5lqd-7KCAsoCbbVnCgQUpesngDo/edit?usp=sharing
-> PPT https://docs.google.com/presentation/d/1dv7Br13IOE09YON_pPn6MN_0A58Ti5bdaWc-CMmNPjI/edit?hl=ko#slide=id.p
+> wbs https://docs.google.com/spreadsheets/d/1IIXrj9losVzYQNCMI3Y4T6SXFUSc5Gt-MB3Shclheew/edit?hl=ko#gid=0 <br>
+> 요구사항 정의서 https://docs.google.com/spreadsheets/d/1subJ-V_CE8W7bAuroVtusD7MDsPch4_AkoOtpLyDHmc/edit#gid=0 <br>
+> 테이블 정의서 https://docs.google.com/spreadsheets/d/1l1-vSZ5OWj_dzr1JlYI20OYLYxVpxjr1TSg_CfqFdoc/edit?copiedFromTrash#gid=0 <br>
+> ERD https://www.erdcloud.com/d/Gf4PFHH52Wi4ExtB8 <br>
+> 화면설계서 https://docs.google.com/presentation/d/13oLWknQu2rLrz0WH5lqd-7KCAsoCbbVnCgQUpesngDo/edit?usp=sharing <br>
+> PPT https://docs.google.com/presentation/d/1dv7Br13IOE09YON_pPn6MN_0A58Ti5bdaWc-CMmNPjI/edit?hl=ko#slide=id.p <br>
 > 카카오오븐 https://ovenapp.io/project/CpEl5YUG7ubn3ZuKoIRVIfg5mozuF2Bb#I92iI
 
 
